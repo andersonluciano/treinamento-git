@@ -4,4 +4,6 @@ Aqui foi alterado no master.
 
 Testando - alteração no master.
 
+Adicionar uma linha.
+
 Aqui foi alterado no branch.
