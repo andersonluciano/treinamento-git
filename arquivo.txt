@@ -3,3 +3,5 @@ Treinamento de git.
 Aqui foi alterado no master.
 
 Testando.
+
+Aqui foi alterado no branch.
